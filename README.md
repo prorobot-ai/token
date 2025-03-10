@@ -2,7 +2,7 @@
 
 [$RABOTA](https://prorobot.ai/introducing-rabota-the-useful-work-token-on-solana), which stands for "Reward for Artistic and Beneficial Occupational Tasks and Applications," is a utility token built on the Solana blockchain.
 
-![PROROBOT](rabotaToken.png)
+![PROROBOT](assets/rabotaToken.png)
 
 ## Launch Instructions
 
