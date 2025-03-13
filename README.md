@@ -4,23 +4,11 @@
 
 ![PROROBOT](assets/rabotaToken.png)
 
-## Launch Instructions
+## Signatures
 
-```stdin
-solana sign-offchain-message "$(cat instructions.md)"
-```
+### [1] LvfNcLir6kRzDjm7oqC34fpWUmbJigkbQnTCdDVYh4pv7sAZcyhQhythZP6Qpc5PxFFqKBUyM5ZHb33uYuRWRdr
 
-```stdout
-LvfNcLir6kRzDjm7oqC34fpWUmbJigkbQnTCdDVYh4pv7sAZcyhQhythZP6Qpc5PxFFqKBUyM5ZHb33uYuRWRdr
-```
-
-```stdin
-solana verify-offchain-signature "$(cat instructions.md)" LvfNcLir6kRzDjm7oqC34fpWUmbJigkbQnTCdDVYh4pv7sAZcyhQhythZP6Qpc5PxFFqKBUyM5ZHb33uYuRWRdr
-```
-
-```stdout
-Signature is valid
-```
+### [2] 2NXfRyQqP4jieHwsn4YJ2X4N6bRu6msfi2TYiJyr8iSoKYmnGoSXZTqyrJTp1NNHGuf857mywfDmvnhTYEqvfRp6
 
 ## Testnet Mint Authority
 
