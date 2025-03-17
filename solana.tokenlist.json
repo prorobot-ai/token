@@ -99,7 +99,20 @@
             "decimals": 9,
             "logoURI": "https://bafybeierdzfqbppjdv36nnhiiyuwdsccag7la6juvzm4c732q2bmfcvice.ipfs.w3s.link/rabotaToken.png",
             "tags": [
-                "utility-token"
+                "utility-token",
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 102,
+            "address": "E188YbZs6LLVBYav13G227bUnrbj9UJGPshf7E6s6SkG",
+            "symbol": "RABOTA",
+            "name": "RABOTA",
+            "decimals": 0,
+            "logoURI": "https://bafybeierdzfqbppjdv36nnhiiyuwdsccag7la6juvzm4c732q2bmfcvice.ipfs.w3s.link/rabotaToken.png",
+            "tags": [
+                "utility-token",
+                "stablecoin"
             ]
         }
     ],
