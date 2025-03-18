@@ -4,13 +4,21 @@
 
 ![PROROBOT](assets/rabotaToken.png)
 
-## Signatures
+## Signature
 
 ### [1] LvfNcLir6kRzDjm7oqC34fpWUmbJigkbQnTCdDVYh4pv7sAZcyhQhythZP6Qpc5PxFFqKBUyM5ZHb33uYuRWRdr
 
 ### [2] 2NXfRyQqP4jieHwsn4YJ2X4N6bRu6msfi2TYiJyr8iSoKYmnGoSXZTqyrJTp1NNHGuf857mywfDmvnhTYEqvfRp6
 
-## Testnet Mint Authority
+## Mainnet Activity
+
+- [solscan.io](https://solscan.io/token/DaEivka37g83C3QMokZmBsUNsAHoh1tm8HhKh8r4Cen5)
+
+## Testnet Activity
 
 - [solana.fm](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
 - [explorer.solana](https://explorer.solana.com/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq?cluster=testnet)
+
+## Usecases
+
+- [SkateConnect](https://sk8.chat)
