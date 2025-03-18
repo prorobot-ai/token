@@ -19,6 +19,10 @@
 - [solana.fm](https://solana.fm/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq/tokens?cluster=testnet-solana)
 - [explorer.solana](https://explorer.solana.com/address/rabpv2nxTLxdVv2SqzoevxXmSD2zaAmZGE79htseeeq?cluster=testnet)
 
-## Usecases
+## Use Cases
 
 - [SkateConnect](https://sk8.chat)
+
+## Other
+
+- [More Info](https://prorobot.ai/token/DaEivka37g83C3QMokZmBsUNsAHoh1tm8HhKh8r4Cen5)
