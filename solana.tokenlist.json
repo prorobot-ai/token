@@ -59,22 +59,6 @@
     "tokens": [
         {
             "chainId": 101,
-            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "symbol": "USDC",
-            "name": "USD Coin",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/p2p-org/solana-token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-            "tags": [
-                "stablecoin"
-            ],
-            "extensions": {
-                "coingeckoId": "usd-coin",
-                "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
-                "website": "https://www.centre.io/"
-            }
-        },
-        {
-            "chainId": 101,
             "address": "DaEivka37g83C3QMokZmBsUNsAHoh1tm8HhKh8r4Cen5",
             "symbol": "RABOTA",
             "name": "RABOTA",
@@ -88,7 +72,23 @@
                 "coingeckoId": "",
                 "website": "https://prorobot.ai",
                 "twitter": "https://x.com/prorobotai",
-                "telegram": ""
+                "telegram": "https://t.me/prorobotai/61"
+            }
+        },
+        {
+            "chainId": 101,
+            "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "symbol": "USDC",
+            "name": "USD Coin",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/p2p-org/solana-token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+            "tags": [
+                "stablecoin"
+            ],
+            "extensions": {
+                "coingeckoId": "usd-coin",
+                "serumV3Usdt": "77quYg4MGneUdjgXCunt9GgM1usmrxKY31twEy3WHwcS",
+                "website": "https://www.centre.io/"
             }
         },
         {
